@@ -22,7 +22,7 @@ $ public_ip.py
 
 ### Licencia
 
-GNU Plubic Licence v3
+GNU Public Licence v3
 
 ### Autor
 
