@@ -1,5 +1,5 @@
-# public_ip
-Script en Python para obtener la ip pública.
+# Public Ip
+Script en Python para obtener la ip pública usando web de dyndns
 
 ### Requisitos
 
@@ -9,16 +9,16 @@ Python 3.x
 
 Simplemente llama al script. Recuerda tener por defecto Python 3.x en tu sistema
 
-'''sh
+```sh
 $ python public_ip.py
-'''
+```
 
 También puedes darle permisos de ejecución si usas algún sistema Unix
 
-'''sh
+```sh
 $ chmod +x public_ip.py
 $ public_ip.py
-'''
+```
 
 ### Licencia
 
